@@ -1,0 +1,7 @@
+/*
+    * Developer's Name: Aashish Maharjan
+    * Version: 0.10.1
+    * Last Updated: 5th May, 2019
+    * Available on Github
+    * Instagram: @aacismaharjan
+*/
