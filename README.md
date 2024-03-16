@@ -1,5 +1,5 @@
 # Hangman Game in C Programming (Dynamic Programming)
-This game is developed by Aashish Maharjan inspired from an online creator. Tt is text based word guessing game.
+Hangman Game in C Programming (Dynamic Programming) is developed by Aashish Maharjan inspired from an online creator. It is text based word guessing game.
 
 * Developer's Name: Aashish Maharjan
 * Version: 0.2.0
